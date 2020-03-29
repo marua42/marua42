@@ -1,0 +1,128 @@
+/* Co.com */
+
+.co-logo {
+  margin: 40px 0px 0px 80px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  letter-spacing: -2.65528px;
+  color: #241e21;
+}
+
+.com-logo {
+  color: #ff5a0d;
+}
+
+/* Section */
+
+.section {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -30px;
+}
+
+.home {
+  width: 170px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #ff5a0d;
+}
+
+.services {
+  width: 190px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 325;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #241e21;
+}
+
+.pricing {
+  width: 190px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 325;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #241e21;
+}
+
+.works {
+  width: 190px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 325;
+  font-size: 35px;
+  letter-spacing: -2.30894px;
+  color: #241e21;
+}
+
+/* Text */
+
+.secret {
+  width: 380px;
+  padding: 120px 0px 0px 80px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 325;
+  font-size: 50px;
+  letter-spacing: -2.67561px;
+  color: #302a2c;
+}
+
+.world {
+  color: #ff5a0d;
+  font-weight: 350;
+}
+
+/* Buttons */
+
+.rectangle {
+  margin: 25px 0px 0px 80px;
+  width: 180px;
+  height: 45px;
+  background: #ff5a0d;
+  border-radius: 2px;
+}
+
+.get_started {
+  padding-left: 30px;
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 320;
+  font-size: 23px;
+  line-height: 42px;
+  letter-spacing: -1.73171px;
+  color: #ffffff;
+}
+
+.rectangle-copy {
+  margin: -45px 0px 0px 280px;
+  width: 180px;
+  height: 45px;
+  background: #241e21;
+  border-radius: 3px;
+}
+
+.our_works {
+  font-family: Gotham Rounded;
+  font-style: normal;
+  font-weight: 320;
+  font-size: 23px;
+  padding-left: 33px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: -1.73171px;
+  color: #ffffff;
+}
+
+/* Image */
+
+img {
+  margin: -340px 0px 0px 650px;
+}
